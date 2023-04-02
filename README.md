@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://www.frontendmentor.io/solutions/...](https://www.frontendmentor.io/solutions/...)
-- Live Site URL: [https://ggencas.github.io/interactive-rating-component/](https://ggencas.github.io/interactive-rating-component/)
+- Solution URL: [https://www.frontendmentor.io/solutions/interactive-rating-component-built-with-vannilla-js-2gmw0zQE-q](https://www.frontendmentor.io/solutions/interactive-rating-component-built-with-vannilla-js-2gmw0zQE-q)
+- Live Site URL: [https://ggencas.github.io/interactive-rating-component//](https://ggencas.github.io/interactive-rating-component/)
 
 ## My process
 
